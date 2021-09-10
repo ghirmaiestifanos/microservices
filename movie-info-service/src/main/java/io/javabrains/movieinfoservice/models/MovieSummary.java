@@ -6,6 +6,7 @@ public class MovieSummary {
     private String title;
     private String overview;
 
+
     public String getId() {
         return id;
     }
